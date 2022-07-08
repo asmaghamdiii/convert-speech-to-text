@@ -26,11 +26,6 @@ recognition.onspeechend = function() {
 
 }
 
-recognition.onerror = function() {
-
- instruction.text("Try Again")
-
-}
 
 recognition.onresult = function(event) {
 
