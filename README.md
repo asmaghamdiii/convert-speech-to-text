@@ -35,4 +35,4 @@ capture something with the onresult handler save it in a global variable and dis
 This will prompt users to give permission. If such is granted the device's microphone will be activated , and receive the words from user.
 
 file:///C:/Users/Family/Desktop/%D8%A7%D9%84%D9%85%D9%84%D9%81%D8%A7%D8%AA/%D8%A3%D8%B3%D9%85%D8%A7%D8%A1/task%201/index.html
-
+ 
